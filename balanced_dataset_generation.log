@@ -1,0 +1,124 @@
+2025-04-29 19:15:24,449 - INFO - Reading and preprocessing input datasets...
+2025-04-29 19:15:36,881 - INFO - Starting negative sample generation...
+2025-04-29 19:15:38,562 - INFO - Saved chunk 0-1000 with 8954 samples
+2025-04-29 19:15:40,220 - INFO - Saved chunk 1000-2000 with 14487 samples
+2025-04-29 19:15:42,147 - INFO - Saved chunk 2000-3000 with 9219 samples
+2025-04-29 19:15:43,414 - INFO - Saved chunk 3000-4000 with 13849 samples
+2025-04-29 19:15:45,537 - INFO - Saved chunk 4000-5000 with 16823 samples
+2025-04-29 19:15:46,992 - INFO - Saved chunk 5000-6000 with 15330 samples
+2025-04-29 19:15:49,290 - INFO - Saved chunk 6000-7000 with 26231 samples
+2025-04-29 19:15:53,159 - INFO - Saved chunk 7000-8000 with 41276 samples
+2025-04-29 19:15:56,893 - INFO - Saved chunk 8000-9000 with 47828 samples
+2025-04-29 19:16:01,084 - INFO - Saved chunk 9000-10000 with 53566 samples
+2025-04-29 19:16:04,066 - INFO - Saved chunk 10000-11000 with 42144 samples
+2025-04-29 19:16:08,209 - INFO - Saved chunk 11000-12000 with 62387 samples
+2025-04-29 19:16:13,162 - INFO - Saved chunk 12000-13000 with 67500 samples
+2025-04-29 19:16:20,463 - INFO - Saved chunk 13000-14000 with 106361 samples
+2025-04-29 19:16:29,300 - INFO - Saved chunk 14000-15000 with 106736 samples
+2025-04-29 19:16:35,528 - INFO - Saved chunk 15000-16000 with 86275 samples
+2025-04-29 19:16:38,428 - INFO - Saved chunk 16000-17000 with 40734 samples
+2025-04-29 19:16:42,669 - INFO - Saved chunk 17000-18000 with 59358 samples
+2025-04-29 19:16:48,632 - INFO - Saved chunk 18000-19000 with 63212 samples
+2025-04-29 19:16:53,235 - INFO - Saved chunk 19000-20000 with 50277 samples
+2025-04-29 19:16:56,789 - INFO - Saved chunk 20000-21000 with 34565 samples
+2025-04-29 19:16:59,042 - INFO - Saved chunk 21000-22000 with 28114 samples
+2025-04-29 19:17:01,820 - INFO - Saved chunk 22000-23000 with 32012 samples
+2025-04-29 19:17:05,172 - INFO - Saved chunk 23000-24000 with 37909 samples
+2025-04-29 19:17:07,628 - INFO - Saved chunk 24000-25000 with 28242 samples
+2025-04-29 19:17:09,668 - INFO - Saved chunk 25000-26000 with 27579 samples
+2025-04-29 19:17:11,476 - INFO - Saved chunk 26000-27000 with 24111 samples
+2025-04-29 19:17:13,374 - INFO - Saved chunk 27000-28000 with 25850 samples
+2025-04-29 19:17:17,738 - INFO - Saved chunk 28000-29000 with 57859 samples
+2025-04-29 19:17:23,149 - INFO - Saved chunk 29000-30000 with 63772 samples
+2025-04-29 19:17:27,037 - INFO - Saved chunk 30000-31000 with 55967 samples
+2025-04-29 19:17:29,067 - INFO - Saved chunk 31000-32000 with 25648 samples
+2025-04-29 19:17:33,298 - INFO - Saved chunk 32000-33000 with 47467 samples
+2025-04-29 19:17:37,639 - INFO - Saved chunk 33000-34000 with 55948 samples
+2025-04-29 19:17:41,079 - INFO - Saved chunk 34000-35000 with 42683 samples
+2025-04-29 19:17:43,898 - INFO - Saved chunk 35000-36000 with 36568 samples
+2025-04-29 19:17:46,504 - INFO - Saved chunk 36000-37000 with 35998 samples
+2025-04-29 19:17:49,265 - INFO - Saved chunk 37000-38000 with 33714 samples
+2025-04-29 19:17:52,288 - INFO - Saved chunk 38000-39000 with 39798 samples
+2025-04-29 19:17:53,732 - INFO - Saved chunk 39000-40000 with 17093 samples
+2025-04-29 19:17:55,515 - INFO - Saved chunk 40000-41000 with 22986 samples
+2025-04-29 19:17:57,134 - INFO - Saved chunk 41000-42000 with 19098 samples
+2025-04-29 19:17:59,055 - INFO - Saved chunk 42000-43000 with 23187 samples
+2025-04-29 19:18:00,937 - INFO - Saved chunk 43000-44000 with 22445 samples
+2025-04-29 19:18:02,185 - INFO - Saved chunk 44000-45000 with 12608 samples
+2025-04-29 19:18:03,478 - INFO - Saved chunk 45000-46000 with 14983 samples
+2025-04-29 19:18:04,703 - INFO - Saved chunk 46000-47000 with 13820 samples
+2025-04-29 19:18:06,965 - INFO - Saved chunk 47000-48000 with 30847 samples
+2025-04-29 19:18:11,282 - INFO - Saved chunk 48000-49000 with 30496 samples
+2025-04-29 19:18:12,681 - INFO - Saved chunk 49000-50000 with 13932 samples
+2025-04-29 19:18:14,250 - INFO - Saved chunk 50000-51000 with 17795 samples
+2025-04-29 19:18:15,572 - INFO - Saved chunk 51000-52000 with 14021 samples
+2025-04-29 19:18:16,535 - INFO - Saved chunk 52000-52691 with 11639 samples
+2025-04-29 19:18:16,584 - INFO - Combining chunks and saving final dataset...
+2025-04-29 19:19:24,908 - INFO - Dataset generation complete!
+2025-04-29 19:19:24,908 - INFO - Final dataset statistics:
+2025-04-29 19:19:24,908 - INFO - Total samples: 3862602
+2025-04-29 19:19:24,908 - INFO - Positive samples: 1931301
+2025-04-29 19:19:24,908 - INFO - Negative samples: 1931301
+2025-04-29 19:19:24,908 - INFO - Balance ratio: 1.00
+2025-04-29 20:40:34,460 - INFO - Reading and preprocessing input datasets...
+2025-04-29 20:40:44,214 - INFO - Starting negative sample generation...
+2025-04-29 20:40:45,739 - INFO - Saved chunk 0-1000 with 8954 samples
+2025-04-29 20:40:47,258 - INFO - Saved chunk 1000-2000 with 14487 samples
+2025-04-29 20:40:48,236 - INFO - Saved chunk 2000-3000 with 9219 samples
+2025-04-29 20:40:49,559 - INFO - Saved chunk 3000-4000 with 13849 samples
+2025-04-29 20:40:51,077 - INFO - Saved chunk 4000-5000 with 16823 samples
+2025-04-29 20:40:52,571 - INFO - Saved chunk 5000-6000 with 15330 samples
+2025-04-29 20:40:54,739 - INFO - Saved chunk 6000-7000 with 26231 samples
+2025-04-29 20:40:58,024 - INFO - Saved chunk 7000-8000 with 41276 samples
+2025-04-29 20:41:01,650 - INFO - Saved chunk 8000-9000 with 47828 samples
+2025-04-29 20:41:05,717 - INFO - Saved chunk 9000-10000 with 53566 samples
+2025-04-29 20:41:09,022 - INFO - Saved chunk 10000-11000 with 42144 samples
+2025-04-29 20:41:13,802 - INFO - Saved chunk 11000-12000 with 62387 samples
+2025-04-29 20:41:18,792 - INFO - Saved chunk 12000-13000 with 67500 samples
+2025-04-29 20:41:26,522 - INFO - Saved chunk 13000-14000 with 106361 samples
+2025-04-29 20:41:34,200 - INFO - Saved chunk 14000-15000 with 106736 samples
+2025-04-29 20:41:40,669 - INFO - Saved chunk 15000-16000 with 86275 samples
+2025-04-29 20:41:44,710 - INFO - Saved chunk 16000-17000 with 40734 samples
+2025-04-29 20:41:51,527 - INFO - Saved chunk 17000-18000 with 59358 samples
+2025-04-29 20:41:56,619 - INFO - Saved chunk 18000-19000 with 63212 samples
+2025-04-29 20:42:00,291 - INFO - Saved chunk 19000-20000 with 50277 samples
+2025-04-29 20:42:03,089 - INFO - Saved chunk 20000-21000 with 34565 samples
+2025-04-29 20:42:06,746 - INFO - Saved chunk 21000-22000 with 28114 samples
+2025-04-29 20:42:10,545 - INFO - Saved chunk 22000-23000 with 32012 samples
+2025-04-29 20:42:13,721 - INFO - Saved chunk 23000-24000 with 37909 samples
+2025-04-29 20:42:16,319 - INFO - Saved chunk 24000-25000 with 28242 samples
+2025-04-29 20:42:18,420 - INFO - Saved chunk 25000-26000 with 27579 samples
+2025-04-29 20:42:20,335 - INFO - Saved chunk 26000-27000 with 24111 samples
+2025-04-29 20:42:22,431 - INFO - Saved chunk 27000-28000 with 25850 samples
+2025-04-29 20:42:27,235 - INFO - Saved chunk 28000-29000 with 57859 samples
+2025-04-29 20:42:31,910 - INFO - Saved chunk 29000-30000 with 63772 samples
+2025-04-29 20:42:35,883 - INFO - Saved chunk 30000-31000 with 55967 samples
+2025-04-29 20:42:37,771 - INFO - Saved chunk 31000-32000 with 25648 samples
+2025-04-29 20:42:42,650 - INFO - Saved chunk 32000-33000 with 47467 samples
+2025-04-29 20:42:47,353 - INFO - Saved chunk 33000-34000 with 55948 samples
+2025-04-29 20:42:50,632 - INFO - Saved chunk 34000-35000 with 42683 samples
+2025-04-29 20:42:54,214 - INFO - Saved chunk 35000-36000 with 36568 samples
+2025-04-29 20:42:57,034 - INFO - Saved chunk 36000-37000 with 35998 samples
+2025-04-29 20:42:59,646 - INFO - Saved chunk 37000-38000 with 33714 samples
+2025-04-29 20:43:02,750 - INFO - Saved chunk 38000-39000 with 39798 samples
+2025-04-29 20:43:04,263 - INFO - Saved chunk 39000-40000 with 17093 samples
+2025-04-29 20:43:06,186 - INFO - Saved chunk 40000-41000 with 22986 samples
+2025-04-29 20:43:07,781 - INFO - Saved chunk 41000-42000 with 19098 samples
+2025-04-29 20:43:09,602 - INFO - Saved chunk 42000-43000 with 23187 samples
+2025-04-29 20:43:11,426 - INFO - Saved chunk 43000-44000 with 22445 samples
+2025-04-29 20:43:12,649 - INFO - Saved chunk 44000-45000 with 12608 samples
+2025-04-29 20:43:14,028 - INFO - Saved chunk 45000-46000 with 14983 samples
+2025-04-29 20:43:15,313 - INFO - Saved chunk 46000-47000 with 13820 samples
+2025-04-29 20:43:18,490 - INFO - Saved chunk 47000-48000 with 30847 samples
+2025-04-29 20:43:21,266 - INFO - Saved chunk 48000-49000 with 30496 samples
+2025-04-29 20:43:22,833 - INFO - Saved chunk 49000-50000 with 13932 samples
+2025-04-29 20:43:24,910 - INFO - Saved chunk 50000-51000 with 17795 samples
+2025-04-29 20:43:26,354 - INFO - Saved chunk 51000-52000 with 14021 samples
+2025-04-29 20:43:27,270 - INFO - Saved chunk 52000-52691 with 11639 samples
+2025-04-29 20:43:27,306 - INFO - Combining chunks and saving final dataset...
+2025-04-29 20:44:42,537 - INFO - Dataset generation complete!
+2025-04-29 20:44:42,538 - INFO - Final dataset statistics:
+2025-04-29 20:44:42,538 - INFO - Total samples: 3862602
+2025-04-29 20:44:42,538 - INFO - Positive samples: 1931301
+2025-04-29 20:44:42,538 - INFO - Negative samples: 1931301
+2025-04-29 20:44:42,538 - INFO - Balance ratio: 1.00
